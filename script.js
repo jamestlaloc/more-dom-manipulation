@@ -1,5 +1,5 @@
 const link = document.querySelector("a");
-link.textContent = "Mozilla Developer Network";
+link.textContent = "Mozilla Developer Network (Not Godzilla)";
 link.href = "https://developer.mozilla.org";
 
 const sect = document.querySelector("section");
